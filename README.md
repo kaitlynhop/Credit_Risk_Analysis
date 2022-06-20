@@ -57,4 +57,4 @@ As shown in [Credit Ensemble File](/Module-17-Challenge-Resources/credit_risk_en
  - EEC resulted in 9% precision, 92% sensitivity, and 87% index balanced accuracy in detemining high-risk applicants. 
 
 ## Summary
-In summary, the Ensemble Techniques performed better than all the sampling techniques. The EEC model outperformed BRF model with increased precision, sensitivity, and accuracy. Although, a precision of 9% is very low in determining results, the sensitvity score of 94% with the maintained precision and sensitivities of low-risk applicant determination, make this model a googd contender to be used at assessing loan applications. 
+In summary, the Ensemble Techniques performed better than all the sampling techniques. The EEC model outperformed BRF model with increased precision, sensitivity, and accuracy. Although, a precision of 9% is very low in determining results, the sensitvity score of 94% with the maintained precision and sensitivities of low-risk applicant determination, make this model a good contender to be used at assessing loan applications. 
